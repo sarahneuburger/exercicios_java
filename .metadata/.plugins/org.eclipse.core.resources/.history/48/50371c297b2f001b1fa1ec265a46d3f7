@@ -1,0 +1,17 @@
+package LacosDeRepeticao;
+
+public class Atividade10 {
+
+	public static void main(String[] args) {
+		// Laço For
+		
+		String letra = "X";
+		
+		for (int indice = 0; indice < 5; indice++) {
+			
+			System.out.println(letra);
+		}
+
+	}
+
+}

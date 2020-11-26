@@ -1,0 +1,20 @@
+package LacosDeRepeticao;
+
+import javax.swing.JOptionPane;
+
+public class Atividade4 {
+	
+	public static void main(String[] args) {
+		
+	// Laço While
+	
+	int numero1 = Integer.parseInt(JOptionPane.showInputDialog("Insira um número para multiplicar por 5:"));
+
+	while (numero1 > 0) {
+		System.out.println(numero1 * 5);		
+		
+	}
+	
+}
+
+}

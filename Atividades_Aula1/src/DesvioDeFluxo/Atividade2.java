@@ -1,0 +1,25 @@
+package DesvioDeFluxo;
+
+import javax.swing.JOptionPane;
+
+public class Atividade2 {
+	
+	public static void main(String[] args) {
+		
+		// IF ELSE
+		
+		int numero = Integer.parseInt(JOptionPane.showInputDialog("Informe um número para verificar se é par ou impar:"));
+		
+		if (numero % 2 == 0) {
+			
+			System.out.println("O número informado é par.");
+			
+		} else {
+			
+			System.out.println("O número informado é impar.");
+
+		}
+
+	}
+	
+}

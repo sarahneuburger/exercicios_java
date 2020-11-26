@@ -1,0 +1,36 @@
+package DesvioDeFluxo;
+
+import javax.swing.JOptionPane;
+
+public class Atividade6 {
+	
+	
+	public static void main(String[] args) {
+		// SWITCH
+		
+		
+		int opcao = Integer.parseInt(JOptionPane.showInputDialog("Selecione a opção:\n 1 - Sacar\n 2 - Depositar\n 3 - Verificar Saldo\n"));
+		
+		switch (opcao) {
+			
+			case 1:
+				JOptionPane.showMessageDialog(null, "Você escolheu a opção sacar.");
+				break;
+				
+			case 2:
+				JOptionPane.showMessageDialog(null, "Você escolheu a opção depositar.");
+				break;
+				
+			case 3:
+				JOptionPane.showMessageDialog(null, "Você escolheu a opção verificar saldo.");
+				
+			default:
+				JOptionPane.showMessageDialog(null, "Opção inválida.");
+			
+			
+		}		
+		
+		
+	}
+
+}

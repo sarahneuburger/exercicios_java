@@ -1,4 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.sun.tools.javac.parser.Scanner"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="ExercHeranca2.Cachorro"/>
+    <fullyQualifiedTypeName name="ExercHeranca2.Gato"/>
+    <fullyQualifiedTypeName name="ExercHeranca3.Rico"/>
+    <fullyQualifiedTypeName name="ExercHeranca3.Pobre"/>
+    <fullyQualifiedTypeName name="ExercHeranca3.Miseravel"/>
+    <fullyQualifiedTypeName name="ExercHeranca4.Ingresso"/>
+    <fullyQualifiedTypeName name="ExercHeranca4.Normal"/>
+    <fullyQualifiedTypeName name="ExercHeranca4.CamaroteSuperior"/>
+    <fullyQualifiedTypeName name="ExercHeranca4.CamaroteInferior"/>
+    <fullyQualifiedTypeName name="java.text.DecimalFormat"/>
+    <fullyQualifiedTypeName name="jdk.internal.misc.FileSystemOption"/>
     <fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
 </qualifiedTypeNameHistroy>

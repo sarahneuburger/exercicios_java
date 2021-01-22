@@ -15,5 +15,9 @@
     <fullyQualifiedTypeName name="jdk.internal.misc.FileSystemOption"/>
     <fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
     <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="AlunoView.AlunoView"/>
+    <fullyQualifiedTypeName name="AlunoModel.AlunoModel"/>
+    <fullyQualifiedTypeName name="AlunoController.AlunoController"/>
     <fullyQualifiedTypeName name="javax.swing.JPanel"/>
+    <fullyQualifiedTypeName name="javax.swing.JFrame"/>
 </qualifiedTypeNameHistroy>

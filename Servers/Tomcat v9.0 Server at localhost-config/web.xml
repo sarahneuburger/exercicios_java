@@ -4728,5 +4728,18 @@
         <welcome-file>index.htm</welcome-file>
         <welcome-file>index.jsp</welcome-file>
     </welcome-file-list>
+   
+    
+        	<!-- Início do Servlet - Pesquisa -->
+    <servlet>
+    	<servlet-name>pesquisar</servlet-name>
+    	<servlet-class>dadosPesquisa.DadosPesquisa</servlet-class>
+    </servlet>
+    
+    <servlet-mapping>
+    	<servlet-name>pesquisar</servlet-name>
+    	<url-pattern>/pesquisar</url-pattern>
+    </servlet-mapping>
+    <!-- Fim do Servlet -->
 
 </web-app>

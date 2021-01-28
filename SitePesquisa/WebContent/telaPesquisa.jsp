@@ -8,7 +8,7 @@
 </head>
 <body bgcolor="DA 70 D6">
 
-	<form action="pesquisa">
+	<form action="pesquisar">
 		
 		<center>
 		
@@ -21,7 +21,7 @@
 		<br>
 		<br>
 		
-		<input type="text" name="nome" size="70" style="height: 30px">
+		<input type="text" name="pesquisa" size="70" style="height: 30px">
 		
 		<br>
 		<br>
@@ -41,7 +41,7 @@
 		<br>
 		<br>
 	
-		<input type="submit" value="Pesquisar :)" size="100" style="height: 30px">		
+		<input type="submit" name="pesquisar" value="Pesquisar" size="100" style="height: 30px">		
 		</center>
 	
 	</form>
